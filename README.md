@@ -215,4 +215,4 @@ PassMark Sleeper is the complete free version, offering all features and updates
 Take control of your PC's power management today! Download PassMark Sleeper for free and start optimizing your energy savings!
 
 ---
-**Last updated:** 2026-10-24 22:05:47 UTC
+**Last updated:** 2026-10-25 00:40:24 UTC
